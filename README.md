@@ -4,8 +4,6 @@ By Jamie Vos, a ledstrip sensor project.
 
 ## Technologies Used
 
------------------------------------------------------
-
 ### Software
  - Javascript
  - HTML
@@ -15,4 +13,6 @@ By Jamie Vos, a ledstrip sensor project.
 
 ### Hardware
  - NodeMCU
+ - APDS-9960
 
+## Description
