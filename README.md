@@ -3,10 +3,10 @@
 By Jamie Vos, a ledstrip sensor project.
 
 ## Technologies Used
-    - Javascript
-    - HTML
-    - CSS
-    - C++
-    - C
-    - NodeMCU
+ - Javascript
+ - HTML
+ - CSS
+ - C++
+ - C
+ - NodeMCU
 
