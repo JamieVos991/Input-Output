@@ -1,8 +1,9 @@
-
+<h1 align="center">
+    Input-Output
+</h1>
 
 
 <p align="center">
-    <h1>Input-Output</h1>
     By Jamie Vos, a ledstrip sensor project.
 </p>
 
