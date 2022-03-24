@@ -7,6 +7,9 @@
     By Jamie Vos, a ledstrip sensor project.
 </p>
 
+<br>
+<br>
+
 ## Technologies Used
 
 ### Software
