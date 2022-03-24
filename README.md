@@ -8,7 +8,6 @@
 </p>
 
 <br>
-<br>
 
 ## Technologies Used
 
