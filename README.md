@@ -4,6 +4,8 @@ By Jamie Vos, a ledstrip sensor project.
 
 ## Technologies Used
 
+-----------------------------------------------------
+
 ### Software
  - Javascript
  - HTML
