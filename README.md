@@ -1,6 +1,8 @@
 # Input-Output
 
-By Jamie Vos, a ledstrip sensor project.
+<p align="center">
+    By Jamie Vos, a ledstrip sensor project.
+</p>
 
 ## Technologies Used
 
@@ -21,6 +23,8 @@ Distinctio, excepturi et voluptatem dolore omnis a aliquid doloremque nostrum to
 Exercitationem maiores inventore voluptas. Assumenda excepturi harum minus autem, fugiat doloremque molestias eaque repudiandae. Nesciunt vero ipsum et eaque ad quam numquam hic, voluptates quasi, cum reiciendis corporis quidem nulla?
 Nihil dolor dolore magnam blanditiis quisquam commodi error natus at vel, nulla culpa eaque quo iusto eum rerum consequuntur aspernatur incidunt. Culpa similique molestias provident aut quos animi delectus debitis.
 
+## Contributors
+- Jamie Vos <a href="#">Linked-In</a>
 
 ## Links
 - <a href="#">Projectplan</a>
@@ -29,3 +33,8 @@ Nihil dolor dolore magnam blanditiis quisquam commodi error natus at vel, nulla 
 - <a href="#">Testplan</a>
 - <a href="#">Trell board</a>
 - <a href="#">Presentatie</a>
+- <a href="#">Bronnenlijst</a>
+
+
+## License & copyright
+
