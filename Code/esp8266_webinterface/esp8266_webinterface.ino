@@ -16,3 +16,4 @@
 #endif
 
 extern const char index_html[];
+extern const char main_js[];
