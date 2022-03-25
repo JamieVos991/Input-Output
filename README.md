@@ -34,7 +34,7 @@ Nihil dolor dolore magnam blanditiis quisquam commodi error natus at vel, nulla 
 <br>
 
 ## Contributors
-- Jamie Vos <a href="#">Linked-In</a>
+- Jamie Vos <a href="https://www.linkedin.com/in/jamie-vos-0a0b4a18a/">Linked-In</a>
 
 <br>
 
@@ -43,7 +43,7 @@ Nihil dolor dolore magnam blanditiis quisquam commodi error natus at vel, nulla 
 - <a href="#">Onderzoek</a>
 - <a href="#">Logboek</a>
 - <a href="#">Testplan</a>
-- <a href="#">Trell board</a>
+- <a href="https://trello.com/b/cURQGeLi/input-output">Trell board</a>
 - <a href="#">Presentatie</a>
 - <a href="#">Bronnenlijst</a>
 
