@@ -1,3 +1,11 @@
+/*
+  WS2812FX Webinterface.
+  
+  FEATURES
+    * Webinterface with mode, color, speed and brightness selectors
+  
+*/
+
 #define WIFI_SSID "Medialab"
 #define WIFI_PASSWORD "Mediacollege2"
                  
@@ -6,3 +14,5 @@
   IPAddress gateway(192,168,0,1);
   IPAddress subnet(255,255,255,0);
 #endif
+
+extern const char index_html[];
