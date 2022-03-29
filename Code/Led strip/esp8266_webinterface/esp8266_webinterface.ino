@@ -22,8 +22,8 @@
 extern const char index_html[];
 extern const char main_js[];
 
-#define WIFI_SSID "YOURSSID"
-#define WIFI_PASSWORD "YOURPASSWORD"
+#define WIFI_SSID "Medialab"
+#define WIFI_PASSWORD "Mediacollege2"
 
 //#define STATIC_IP                       // uncomment for static IP, set IP below
 #ifdef STATIC_IP
