@@ -34,5 +34,5 @@ extern const char main_js[];
 
 #define PIN D8
 
-#define WIFI_TIMEOUT 30000              // checks WiFi every ...ms. Reset after this time, if WiFi cannot reconnect.
+#define WIFI_TIMEOUT 30000              
 #define HTTP_PORT 80
