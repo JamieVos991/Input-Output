@@ -32,6 +32,10 @@ extern const char main_js[];
   IPAddress subnet(255,255,255,0);
 #endif
 
+// QUICKFIX...See https://github.com/esp8266/Arduino/issues/263
+#define min(a,b) ((a)<(b)?(a):(b))
+#define max(a,b) ((a)>(b)?(a):(b))
+
 #define PIN D8
 
 #define WIFI_TIMEOUT 30000              
