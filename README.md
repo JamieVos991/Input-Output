@@ -10,7 +10,9 @@
 <br>
 
 ## Description
-Voor dit examen ga ik een op afstandbestuurbare led strip maken. Ik maak ook gebruik van APDS sensor, je kan met hand bewegingen de led strip van kleur veranderen. 
+Voor beginnende beroepsbeoefenaar biedt dit keuzedeel de mogelijkheid om beter voorbereid te zijn op de vraag vanuit bedrijven om nieuwe type applicaties of games te ontwikkelen met bijzondere of nieuwe vormen van input en/of output. De markt voor applicaties en games waarbij nieuwe of bijzondere vormen van input/output gebruikt wordt is (landelijk) groeiende.
+
+Voor dit examen ga ik een op afstand bestuurbare led strip maken. Ik maak gebruik van een NodeMCU, zo kun je via een webserver de kleuren veranderen. Voor wat meer creativiteit, voeg ik een APDS-9960 sensor erbij. Zo kun je met handbewegingen de kleur veranderen. 
 
 <br>
 
