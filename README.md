@@ -32,7 +32,7 @@ Voor dit examen ga ik een op afstand bestuurbare led strip maken. Ik maak gebrui
  - NodeMCU
  - WPSE309
  - WS2812b led
- - Arduino app
+ - Arduino IDE
 
 <br>
 
