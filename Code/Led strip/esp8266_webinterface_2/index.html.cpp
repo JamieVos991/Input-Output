@@ -13,29 +13,31 @@ char index_html[] PROGMEM = R"=====(
       font-family:Arial,sans-serif;
       margin:10px;
       padding:0;
-      background-color: grey;
-      color:black;
+      background-color:#202020;
+      color:#909090;
       text-align:center;
     }
 
     .flex-row {
       display:flex;
-      justify-content: center;
       flex-direction:row;
     }
 
     .flex-row-wrap {
       display:flex;
       flex-direction:row;
-      justify-content: center;
       flex-wrap:wrap;
     }
 
     .flex-col {
-      justify-content: center;
       display:flex;
       flex-direction:column;
       align-items:center;
+    }
+
+    input[type='text'] {
+      background-color: #d0d0d0;
+      color:#404040;
     }
 
     ul {
@@ -48,7 +50,7 @@ char index_html[] PROGMEM = R"=====(
       padding:10px;
       border:2px solid #404040;
       border-radius:5px;
-      color: black;
+      color:#909090;
       text-decoration:none;
     }
 
@@ -75,12 +77,31 @@ char index_html[] PROGMEM = R"=====(
   </style>
 </head>
 <body>
+  <h1>Jamie's Ledstrip control</h1>
   <div class='flex-row'>
 
     <div class='flex-col'>
       <div><canvas id='color-canvas' width='360' height='360'></canvas><br/></div>
       <div><input type='text' id='color-value' oninput='onColor(event, this.value)'/></div>
 
+      <div>
+        <ul class='control'>
+          <li>Brightness:</li>
+          <li><a href='#' onclick="onBrightness(event, '-')">&#9788;</a></li>
+          <li><a href='#' onclick="onBrightness(event, '+')">&#9728;</a></li>
+        </ul>
+
+        <ul class='control'>
+          <li>Speed:</li>
+          <li><a href='#' onclick="onSpeed(event, '-')">&#8722;</a></li>
+          <li><a href='#' onclick="onSpeed(event, '+')">&#43;</a></li>
+        </ul>
+
+        <ul class='control'>
+          <li>Auto cycle:</li>
+          <li><a href='#' onclick="onAuto(event, '-')">&#9632;</a></li>
+          <li><a href='#' onclick="onAuto(event, '+')">&#9658;</a></li>
+        </ul>
       </div>
     </div>
 

@@ -2,7 +2,7 @@
 
 /*
 The tiny Javascript/canvas based color picker is based on the clever work of the folks
-at Sparkbox. vv
+at Sparkbox. https://seesparkbox.com/foundry/how_i_built_a_canvas_color_picker
 */
 
 char main_js[] PROGMEM = R"=====(
