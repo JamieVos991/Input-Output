@@ -30,7 +30,8 @@ Voor dit examen ga ik een op afstand bestuurbare led strip maken. Ik maak gebrui
 
 ### Hardware
  - NodeMCU
- - APDS-9960
+ - WPSE309
+ - WS2812b led
  - Arduino app
 
 <br>
