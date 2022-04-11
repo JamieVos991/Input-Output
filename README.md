@@ -16,7 +16,7 @@ Voor dit examen ga ik een op afstand bestuurbare led strip maken. Ik maak gebrui
 
 <br>
 
-<img src="Foto's/Interface.jpg">
+<img src="Foto's/Screenshot 2022-04-11 151108.jpg">
 
 <br>
 
